@@ -1,0 +1,35 @@
+body{
+    background-color:#341a4c;
+    color:white;
+}
+
+
+.container{ 
+
+
+    margin-top: 150px;
+}
+
+.display-1{
+    text-align: center;
+    font-size: 100px;
+
+
+}
+
+.navbar-brand {
+    color: white;
+    margin-top: 60px;
+    width: 40;
+    height: 40;
+    margin-left: 340px;
+
+}
+
+
+
+
+
+    
+
+
